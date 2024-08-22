@@ -9,12 +9,20 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Sine wave synthesizer (SWS), that generates a stepwise approximation of a sinusoid.
 
 ## How to test
 
-Explain how to use your project
+The SWS produces a sinsoid with an output frequnecy depding on the clk.
+
+### Drive externally
+
+NN
+
+### Drive with internal sawtooth wave generator
+
+NN
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Pins (ion,iop) need a 1kohm resistor to gnd.
