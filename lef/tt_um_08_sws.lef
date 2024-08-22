@@ -11,7 +11,7 @@ MACRO tt_um_08_sws
     ANTENNAGATEAREA 0.852000 ;
     PORT
       LAYER met4 ;
-        RECT 143.830 224.760 144.130 225.770 ;
+        RECT 143.830 224.760 144.130 225.760 ;
     END
   END clk
   PIN ena
